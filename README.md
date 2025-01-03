@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/yangyezhuang" target="_blank">Spring Boot Demos</a></h1>
+<h1 align="center"><a href="https://github.com/yangyezhuang" target="_blank">Spring Boot Integration</a></h1>
 <p align="center">
   <a href="https://xkcoding.com"><img alt="author" src="https://img.shields.io/badge/author-YZ.YANG-blue.svg"/></a>
   <a href="https://www.oracle.com/technetwork/java/javase/downloads/index.html"><img alt="JDK" src="https://img.shields.io/badge/JDK-1.8.0_121-orange.svg"/></a>
@@ -12,9 +12,9 @@
 
 ## 项目简介
 
-`spring boot demos` 是一个通过实战深入学习 `spring boot` 的项目
+`spring boot integration` 是一个通过实战深入学习 `spring boot` 的项目
 
-> 如果大家还有想要集成的demo，也可在 [issue](https://github.com/yangyezhuang/spring-boot-demos/issues/new) 里提需求。✊
+> 如果大家还有想要集成的组件，也可在 [issue](https://github.com/yangyezhuang/spring-boot-integration/issues/new) 里提需求。✊
 
 ## 开发环境
 
@@ -25,10 +25,10 @@
 
 ## 运行方式
 
-1. 克隆项目到本地`git clone https://github.com/yangyezhuang/spring-boot-demos.git`
+1. 克隆项目到本地`git clone https://github.com/yangyezhuang/spring-boot-integration.git`
 2. 使用 IDEA 打开 clone 下来的项目，导入Maven依赖
 3. 初始化数据库数据
-5. 找到各个 Module 的 Application 类就可以运行各个 demo 了
+5. 找到各个 Module 的 Application 类就可以运行各个 组件 了
 
 ## 模块介绍
 
